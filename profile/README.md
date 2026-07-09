@@ -1,6 +1,5 @@
-# PVR Labs
 
-**Accelerate Your Java. Maximize Performance.**
+## Accelerate Your Java. Maximize Performance.
 
 Boutique consulting firm specializing in deep Java performance optimization, JVM tuning, and expert software engineering. We help teams eliminate bottlenecks, reduce latency, and scale efficiently.
 
