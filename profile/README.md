@@ -1,28 +1,27 @@
+## Performance Engineering & AI Developer Tools
 
-## Accelerate Your Java. Maximize Performance.
+We build high-performance systems and privacy-first AI tools that help developers and teams ship faster with less waste.
 
-Boutique consulting firm specializing in deep Java performance optimization, JVM tuning, and expert software engineering. We help teams eliminate bottlenecks, reduce latency, and scale efficiently.
+## What We Focus On
 
-## What We Do
+- Performance Optimization - Profiling, latency reduction, scalability, and efficient system design.
+- AI Developer Tools - Local-first solutions that maximize productivity while keeping your code private.
+- Clean & Measurable Engineering - Tools and practices that deliver real, quantifiable improvements.
 
-- Performance Profiling & Analysis
-- JVM Tuning & Optimization (G1, ZGC, Shenandoah, etc.)
-- Scalability & Concurrency
-- Code & Algorithm Enhancement
-- Memory Leak Resolution & Performance Workshops
+## Our Projects
 
-## Our Tools
+- **[AI Badger](https://github.com/PVRLabs/aibadger)** - Local-first CLI tool that extracts precise, token-efficient codebase context for any AI chat (Claude, ChatGPT, Grok, etc.).  
+  No uploads. No cloud. Zero wasted tokens. Built in Go with a sleek TUI.
 
-- **[AI Badger](https://github.com/PVRLabs/aibadger)** - Local-first CLI tool for precise, token-efficient codebase context for any AI chat (Claude, ChatGPT, Grok, etc.). Fully private, no uploads, no cloud.
-
-Built in San Diego, California.
+Built with ❤️ in San Diego, California.
 
 ## Connect
 
 - **Website**: [pvrlabs.xyz](https://pvrlabs.xyz)
-- **AI Badger**: [pvrlabs.xyz/aibadger](https://pvrlabs.xyz/aibadger)
+- **AI Badger**: [pvrlabs.xyz/aibadger](https://pvrlabs.xyz/aibadger) • [GitHub](https://github.com/PVRLabs/aibadger)
 - **LinkedIn**: [PVR Labs](https://www.linkedin.com/company/pvrlabs)
+- **X**: [@kupolov](https://x.com/kupolov)
 
 ---
 
-Open to strategic consulting engagements and collaborations.
+**Open to collaborations, consulting, and strategic partnerships in performance engineering and AI tooling.**
