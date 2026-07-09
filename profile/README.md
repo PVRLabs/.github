@@ -15,7 +15,7 @@ Boutique consulting firm specializing in deep Java performance optimization, JVM
 
 - **[AI Badger](https://github.com/PVRLabs/aibadger)** - Local-first CLI tool for precise, token-efficient codebase context for any AI chat (Claude, ChatGPT, Grok, etc.). Fully private, no uploads, no cloud.
 
-Built in Carlsbad, California.
+Built in San Diego, California.
 
 ## Connect
 
