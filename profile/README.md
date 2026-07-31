@@ -27,7 +27,7 @@ StatLite provides health, request, latency, runtime, and host visibility using a
 
 A lightweight, open-source ETL and database migration tool for workflows built with SQL, XML, Java, and scripting languages.
 
-Scriptella was created by PVR Labs founder Ted Kupolov and is maintained by PVR Labs.
+Scriptella was created by PVR Labs founder [Ted Kupolov](https://github.com/ejboy) and is maintained by PVR Labs.
 
 
 
