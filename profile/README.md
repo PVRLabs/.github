@@ -42,5 +42,4 @@ Scriptella was created by PVR Labs founder Ted Kupolov and is maintained by PVR 
 Built with ❤️ in San Diego, California.
 
 ---
-
-**Open to collaborations, consulting, and strategic partnerships in performance engineering and AI tooling.**
+**Open to consulting, collaborations, and strategic partnerships in Java performance, systems engineering, and developer tooling.**
