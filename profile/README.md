@@ -1,26 +1,45 @@
 ## Performance Engineering & AI Developer Tools
 
-We build high-performance systems and privacy-first AI tools that help developers and teams ship faster with less waste.
+PVR Labs builds lightweight developer tools and helps engineering teams improve the performance, scalability, and maintainability of production systems.
 
 ## What We Focus On
 
-- Performance Optimization - Profiling, latency reduction, scalability, and efficient system design.
-- AI Developer Tools - Local-first solutions that maximize productivity while keeping your code private.
-- Clean & Measurable Engineering - Tools and practices that deliver real, quantifiable improvements.
+
+* **Java Performance & Systems Engineering** - Profiling, JVM tuning, latency reduction, concurrency, scalability, and architecture.
+* **Local-First Developer Tools** - Practical tools that improve engineering workflows without unnecessary cloud dependencies or vendor lock-in.
+* **Measurable Engineering** - Focused solutions with clear operational and productivity benefits.
 
 ## Our Projects
 
-- **[AI Badger](https://github.com/PVRLabs/aibadger)** - Local-first CLI tool that extracts precise, token-efficient codebase context for any AI chat (Claude, ChatGPT, Grok, etc.).  
-  No uploads. No cloud. Zero wasted tokens. Built in Go with a sleek TUI.
+### [AI Badger](https://github.com/PVRLabs/aibadger)
 
-Built with ❤️ in San Diego, California.
+A local-first tool that extracts focused, token-efficient codebase context for ChatGPT, Claude, Gemini, Grok, and other AI chats.
+
+Your repository stays local, and no AI-provider API integration is required.
+
+### [StatLite](https://github.com/PVRLabs/statlite)
+
+A lightweight, self-hosted monitoring dashboard for Spring Boot and other applications.
+
+StatLite provides health, request, latency, runtime, and host visibility using a single Go binary and local SQLite storage - without requiring Prometheus or Grafana.
+
+### [Scriptella ETL](https://github.com/scriptella/scriptella-etl)
+
+A lightweight, open-source ETL and database migration tool for workflows built with SQL, XML, Java, and scripting languages.
+
+Scriptella was created by PVR Labs founder Ted Kupolov and is maintained by PVR Labs.
+
+
 
 ## Connect
 
-- **Website**: [pvrlabs.xyz](https://pvrlabs.xyz)
-- **AI Badger**: [pvrlabs.xyz/aibadger](https://pvrlabs.xyz/aibadger) • [GitHub](https://github.com/PVRLabs/aibadger)
-- **LinkedIn**: [PVR Labs](https://www.linkedin.com/company/pvrlabs)
-- **X**: [@kupolov](https://x.com/kupolov)
+* **Website:** [pvrlabs.xyz](https://pvrlabs.xyz)
+* **AI Badger:** [Product page](https://pvrlabs.xyz/aibadger) · [GitHub](https://github.com/PVRLabs/aibadger)
+* **Articles:** [pvrlabs.xyz/articles](https://pvrlabs.xyz/articles/)
+* **LinkedIn:** [PVR Labs](https://www.linkedin.com/company/pvrlabs)
+* **X:** [@kupolov](https://x.com/kupolov)
+
+Built with ❤️ in San Diego, California.
 
 ---
 
