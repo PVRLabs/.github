@@ -1,4 +1,4 @@
-## Performance Engineering & AI Developer Tools
+## Performance Engineering & Developer Tools
 
 PVR Labs builds lightweight developer tools and helps engineering teams improve the performance, scalability, and maintainability of production systems.
 
@@ -39,7 +39,7 @@ Scriptella was created by PVR Labs founder [Ted Kupolov](https://github.com/ejbo
 * **LinkedIn:** [PVR Labs](https://www.linkedin.com/company/pvrlabs)
 * **X:** [@kupolov](https://x.com/kupolov)
 
-Built with ❤️ in San Diego, California.
+Built in San Diego, California. 🌊
 
 ---
 **Open to consulting, collaborations, and strategic partnerships in Java performance, systems engineering, and developer tooling.**
