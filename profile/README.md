@@ -34,12 +34,11 @@ Scriptella was created by PVR Labs founder [Ted Kupolov](https://github.com/ejbo
 ## Connect
 
 * **Website:** [pvrlabs.xyz](https://pvrlabs.xyz)
-* **AI Badger:** [Product page](https://pvrlabs.xyz/aibadger) · [GitHub](https://github.com/PVRLabs/aibadger)
 * **Articles:** [pvrlabs.xyz/articles](https://pvrlabs.xyz/articles/)
 * **LinkedIn:** [PVR Labs](https://www.linkedin.com/company/pvrlabs)
 * **X:** [@kupolov](https://x.com/kupolov)
 
-Built in San Diego, California. 🌊
+Built in San Diego. 🌊
 
 ---
 **Open to consulting, collaborations, and strategic partnerships in Java performance, systems engineering, and developer tooling.**
