@@ -36,7 +36,6 @@ Scriptella was created by PVR Labs founder [Ted Kupolov](https://github.com/ejbo
 * **Website:** [pvrlabs.xyz](https://pvrlabs.xyz)
 * **Articles:** [pvrlabs.xyz/articles](https://pvrlabs.xyz/articles/)
 * **LinkedIn:** [PVR Labs](https://www.linkedin.com/company/pvrlabs)
-* **X:** [@kupolov](https://x.com/kupolov)
 
 Built in San Diego. 🌊
 
